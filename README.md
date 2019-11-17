@@ -1,3 +1,18 @@
+#react_do_list
+v1.1 uploaded to Github on Nov 17, 2019
+
+# Summary of webpage
+This webpage is a simple react.js webpage with 4 pages, one of which is a todo list. You can add, edit, or delete individual items on the list, although the items are not saves.
+
+This webpage was originally made for a class project.
+
+#To Run guide
+To run the web-app: 
+1. First ensure that node.js and npm are both installed on your computer.
+2. Either follow the automatically generated instructions below, or double-click run.bat and the webpage will be displayed after a about a minute.
+
+
+### Auto-generated info below
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

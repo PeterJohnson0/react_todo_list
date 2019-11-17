@@ -1,3 +1,41 @@
+/*
+Peter Johnson
+*/
+
+td {
+	padding: 5px;
+	text-align: left;
+}
+
+td.TD_Item {
+	width: 100%;
+}
+
+.TD_Editor{
+	width: 80%;
+}
+
+.mainbody {
+	padding: 25px 50px;
+}
+
+.inactive {
+	color: blue;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.active {
+	color: red;
+	font-style: bold;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.TOC {
+	text-align: center;
+}
+
 .App {
   text-align: center;
 }
